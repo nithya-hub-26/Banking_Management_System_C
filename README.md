@@ -11,12 +11,10 @@ This project contains 2 structure and a union:
 User can create two types of account:
 
 1. Savings account - It has interest rate which is set to 7%.
-                    
                     i)  The interest rate for every month could be checked in interest rate check module.
                     ii) If the withdraw amount is less than the balance of that account then the withdraw will be unsuccessful.
    
 2. Current account - It has overdraft limit which is set to 1 lakh.
-   
                      i)  It has no interest
                      ii) If the withdraw amount is less than the balance of that account then the withdraw will be successful with minus balance. But if the withdraw amount exceeds even the overdraft limit of 1 lakh then the withdraw will be unsuccessful.
 
