@@ -1,4 +1,5 @@
 Bank Management System
+
 This project is a simple Bank Management System implemented in C, designed to manage customer accounts, transactions, and account information. It provides basic functionalities like creating a new account, updating account details, making transactions (deposit and withdrawal), checking balances, view customer details and more.
 
 This project contains 2 structure and a union
