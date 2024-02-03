@@ -1,4 +1,4 @@
-Bank Management System
+#Bank Management System
 
 This project is a simple Bank Management System implemented in C, designed to manage customer accounts, transactions, and account information. It provides basic functionalities like creating a new account, updating account details, making transactions (deposit and withdrawal), checking balances, view customer details and more.
 
@@ -18,7 +18,7 @@ User can create two types of account:
                      i)  It has no interest
                      ii) If the withdraw amount is less than the balance of that account then the withdraw will be successful with minus balance. But if the withdraw amount exceeds even the overdraft limit of 1 lakh then the withdraw will be unsuccessful.
 
-Features:
+**Features:**
 1. User authentication with a username and password
 2. User can create savings or current account
 3. Creation, updating, and deletion of customer accounts
