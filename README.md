@@ -8,7 +8,7 @@ This project contains 2 structure and a union:
 2. Saving structure
 3. Current structure
 
-**User can create two types of account:**
+User can create two types of account:
 
 **1. Savings account:** It has interest rate which is set to 7%.<br><br>
                       i)  The interest rate for every month could be checked in interest rate check module.<br>
